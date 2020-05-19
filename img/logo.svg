@@ -1,0 +1,40 @@
+<svg id="svg1" xmlns="http://www.w3.org/2000/svg" width="150" height="195" viewBox="0 0 72 102.28">
+  <g id="Group_100" data-name="Group 100" transform="translate(-389 -39.72)">
+   
+   
+   
+   <path id="Path_3" stroke-dasharray="304" stroke-dashoffset="304" data-name="Path 3" d="M1172.829,350.518h70V278.493l-35.606-27.975-34.394,27.975Z" transform="translate(-782.829 -209.518)" fill="none" stroke="#6fc28a" stroke-width="2" >
+   
+   	 <animate id="p1" attributeName="stroke-dashoffset" begin="3s" values="304; 0;" dur="2s" repeatCount="1"  fill="freeze"  calcMode="linear"/>
+	
+
+   
+   </path >
+	
+
+
+	
+	
+    <g id="Rectangle_8" stroke-dasharray="304" stroke-dashoffset="304" data-name="Rectangle 8" transform="translate(425 81)" fill="none" stroke="#6fc28a" stroke-width="2">
+	<animate id="p1" attributeName="stroke-dashoffset" begin="1s" values="304; 0;" dur="5s" repeatCount="1"  fill="freeze"  calcMode="linear"/>
+      <rect width="20" height="25" stroke="none"/>
+      <rect x="1" y="1" width="18" height="23" fill="none"/>
+    </g>
+	
+	
+    <path id="Path_8" stroke-dasharray="304" stroke-dashoffset="304" data-name="Path 8" d="M512.134,349V325.348H527.29v19.015" transform="translate(-110 -208)" fill="none" stroke="#6fc28a" stroke-width="2" >
+	 <animate id="p1" attributeName="stroke-dashoffset" begin="3s" values="304; 0;" dur="5s" repeatCount="1"  fill="freeze"  calcMode="linear"/>
+	</path >
+    <path id="Path_9" stroke-dasharray="304" stroke-dashoffset="304" data-name="Path 9" d="M544,290.248v20.21" transform="translate(-110 -208)" fill="none" stroke="#6fc28a" stroke-width="2">
+	 <animate id="p1" attributeName="stroke-dashoffset" begin="3s" values="304; 0;" dur="5s" repeatCount="1"  fill="freeze"  calcMode="linear"/>
+	</path >
+    <path id="Path_10" stroke-dasharray="304" stroke-dashoffset="304" data-name="Path 10" d="M538.178,298.154h15.337" transform="translate(-110 -208.154)" fill="none" stroke="#6fc28a" stroke-width="2">
+	 <animate id="p1" attributeName="stroke-dashoffset" begin="3s" values="304; 0;" dur="5s" repeatCount="1"  fill="freeze"  calcMode="linear"/>
+	</path >
+	
+	
+	
+  </g>
+</svg>
+
+
